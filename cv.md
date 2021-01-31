@@ -7,5 +7,5 @@ I have always enjoyed creating something new. Since childhood, I could not decid
 4. Skills: Github, html, css, php, js, linux, windows, photoshop, figma, altium designer, google=);
 5. https://github.com/slimeshot.
 6. Work experience: Youtube, code-basics (html, css, js), https://learn.javascript.ru/(js), intensiv HTML accademy(js).
-7. Education: Bachelor's degree in electronics and nanoelectronics. Master's Degree in Photonics. intensiv HTML accademy(js). Youtube.
+7. Education: Bachelor's degree in electronics and nanoelectronics. Master's Degree in Photonics. intensiv HTML accademy(js). Youtube
 8. Level of English: My English level is A2. I studied language at school, spoke English in online games. Now I work as a guy from America and we communicate in English (using google translator).
