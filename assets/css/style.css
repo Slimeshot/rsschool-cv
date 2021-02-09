@@ -1,0 +1,29 @@
+/* @import 'reset.css'; */
+
+
+.section {
+}
+.container {
+    width: 1260px;
+    margin: 0 auto;
+}
+.section__content {
+    display: flex;
+}
+.section__img {
+    margin-top: 50px;
+}
+.section__text {
+    margin-left: 30px;
+}
+.section__title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 130%;
+}
+.section__subtitle {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 175%;
+}
