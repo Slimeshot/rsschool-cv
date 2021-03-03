@@ -1,29 +1,45 @@
 /* @import 'reset.css'; */
 
-
+body {
+    background: radial-gradient( #FBF2EB, #352A3B);
+}
 .section {
 }
 .container {
     width: 1260px;
     margin: 0 auto;
 }
-.section__content {
+.header__content {
     display: flex;
 }
-.section__img {
+.header__img {
+    width: 100%;
     margin-top: 50px;
 }
-.section__text {
+.header__text {
     margin-left: 30px;
 }
-.section__title {
+.header__title {
     text-align: center;
     font-weight: bold;
     font-size: 36px;
     line-height: 130%;
 }
-.section__subtitle {
+.header__list {
+    border: solid 1px grey;
     font-weight: normal;
     font-size: 18px;
     line-height: 175%;
+}
+
+
+.footer {
+    
+}
+.container {
+}
+.footer__content {
+}
+.footer__logo {
+    width: 200px;
 }
