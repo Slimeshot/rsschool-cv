@@ -9,4 +9,4 @@ function sum(a, b) {
 }
 7.Calculator, piano, momentrum
 8.HtmlAccademy
-9.B1
+9.B2
