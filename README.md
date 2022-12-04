@@ -1,1 +1,1 @@
-https://slimeshot.github.io/rsschool-cv/cv
+https://slimeshot.github.io/rsschool-cv/
